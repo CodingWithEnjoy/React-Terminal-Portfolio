@@ -1,0 +1,8 @@
+{
+  "short_name": "Web Terminal Portfolio | Coding With Enjoy",
+  "name": "Web Terminal Portfolio With React | Coding With Enjoy",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
