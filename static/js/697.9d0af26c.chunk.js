@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkterminal=self.webpackChunkterminal||[]).push([[697],{697:function(n,e,r){r.r(e);var a,t=r(168),i=r(444),l=r(184),s=i.ZP.span(a||(a=(0,t.Z)(["\n  margin-bottom: 20px;\n  margin-top: 50px;\n"])));e.default=function(n){var e=n.message,r=void 0===e?"Hello World !!!":e;return(0,l.jsx)(s,{children:r})}}}]);
+//# sourceMappingURL=697.9d0af26c.chunk.js.map

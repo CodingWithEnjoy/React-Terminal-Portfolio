@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/React-Terminal-Portfolio/static/css/main.5037ea90.css",
+    "main.js": "/React-Terminal-Portfolio/static/js/main.2aeb01d6.js",
+    "static/js/717.fd078bb6.chunk.js": "/React-Terminal-Portfolio/static/js/717.fd078bb6.chunk.js",
+    "static/js/381.b154cbb4.chunk.js": "/React-Terminal-Portfolio/static/js/381.b154cbb4.chunk.js",
+    "static/js/657.594835ed.chunk.js": "/React-Terminal-Portfolio/static/js/657.594835ed.chunk.js",
+    "static/js/697.9d0af26c.chunk.js": "/React-Terminal-Portfolio/static/js/697.9d0af26c.chunk.js",
+    "static/js/147.47d96bdc.chunk.js": "/React-Terminal-Portfolio/static/js/147.47d96bdc.chunk.js",
+    "static/js/534.08cfb200.chunk.js": "/React-Terminal-Portfolio/static/js/534.08cfb200.chunk.js",
+    "static/js/736.e9596df8.chunk.js": "/React-Terminal-Portfolio/static/js/736.e9596df8.chunk.js",
+    "static/js/323.86241316.chunk.js": "/React-Terminal-Portfolio/static/js/323.86241316.chunk.js",
+    "static/js/262.1f30fb38.chunk.js": "/React-Terminal-Portfolio/static/js/262.1f30fb38.chunk.js",
+    "index.html": "/React-Terminal-Portfolio/index.html",
+    "main.5037ea90.css.map": "/React-Terminal-Portfolio/static/css/main.5037ea90.css.map",
+    "main.2aeb01d6.js.map": "/React-Terminal-Portfolio/static/js/main.2aeb01d6.js.map",
+    "717.fd078bb6.chunk.js.map": "/React-Terminal-Portfolio/static/js/717.fd078bb6.chunk.js.map",
+    "381.b154cbb4.chunk.js.map": "/React-Terminal-Portfolio/static/js/381.b154cbb4.chunk.js.map",
+    "657.594835ed.chunk.js.map": "/React-Terminal-Portfolio/static/js/657.594835ed.chunk.js.map",
+    "697.9d0af26c.chunk.js.map": "/React-Terminal-Portfolio/static/js/697.9d0af26c.chunk.js.map",
+    "147.47d96bdc.chunk.js.map": "/React-Terminal-Portfolio/static/js/147.47d96bdc.chunk.js.map",
+    "534.08cfb200.chunk.js.map": "/React-Terminal-Portfolio/static/js/534.08cfb200.chunk.js.map",
+    "736.e9596df8.chunk.js.map": "/React-Terminal-Portfolio/static/js/736.e9596df8.chunk.js.map",
+    "323.86241316.chunk.js.map": "/React-Terminal-Portfolio/static/js/323.86241316.chunk.js.map",
+    "262.1f30fb38.chunk.js.map": "/React-Terminal-Portfolio/static/js/262.1f30fb38.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5037ea90.css",
+    "static/js/main.2aeb01d6.js"
+  ]
+}
